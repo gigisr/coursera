@@ -1,0 +1,3 @@
+# A file containing sepcfic files, folders, and file extensions to ignore
+
+*/.ipynb_checkpoints/*
